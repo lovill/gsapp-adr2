@@ -2,7 +2,7 @@
 Developed for GSAPP ADR2 Spring 2025.
 Populate in real-time section drawings with people (or any other 2D shape).
 
-![]imgs/animation.gif
+![](imgs/animation.gif)
 
 Inputs:
 - Any curve geometry.
