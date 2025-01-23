@@ -5,7 +5,7 @@ Grasshopper example files for ADR2 GSAPP.
 A series of fast-pace in-class exercises.
 - [warmup .3dm + .gh files](1_warmup)
 
-## Populate in real-time section drawings with people (or any other 2D shape).
+## Place while you draw
 
 ![](imgs/animation.gif)
 
@@ -30,3 +30,6 @@ Dependencies:
 
 How to install plugins? Follow this tutorial: https://parametricbydesign.com/grasshopper/tutorials/installing-grasshopper-and-plugins/
 
+## Slice buildings
+
+[files](3_sculpt_and_floor)
