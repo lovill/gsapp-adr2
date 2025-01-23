@@ -1,8 +1,15 @@
 # People Populator
-Developed for GSAPP ADR2 Spring 2025.
-Populate in real-time section drawings with people (or any other 2D shape).
+Grasshopper example files for ADR2 GSAPP.
+
+# Warmup
+A series of fast-pace in-class exercises.
+- [warmup .3dm + .gh files](1_warmup)
+
+# Populate in real-time section drawings with people (or any other 2D shape).
 
 ![](imgs/animation.gif)
+
+- [warmup .3dm + .gh files](2_place_people)
 
 Inputs:
 - Any curve geometry.

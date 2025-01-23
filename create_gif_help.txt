@@ -1,0 +1,13 @@
+""""usage: make_gif.py [-h] [--fps FPS] [--size SIZE] input_folder output_gif
+
+Create a GIF from a folder of images using FFmpeg
+
+positional arguments:
+  input_folder  Path to folder containing image sequences
+  output_gif    Path for output GIF file
+
+optional arguments:
+  -h, --help    show this help message and exit
+  --fps FPS     Frames per second (default: 10)
+  --size SIZE   Output size in format WxH (e.g., 640x480)
+  """
