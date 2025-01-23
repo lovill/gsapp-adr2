@@ -1,11 +1,11 @@
-# People Populator
+# ADR2 GSAPP In-Class Grasshopper Demos
 Grasshopper example files for ADR2 GSAPP.
 
-# Warmup
+## Warmup
 A series of fast-pace in-class exercises.
 - [warmup .3dm + .gh files](1_warmup)
 
-# Populate in real-time section drawings with people (or any other 2D shape).
+## Populate in real-time section drawings with people (or any other 2D shape).
 
 ![](imgs/animation.gif)
 
