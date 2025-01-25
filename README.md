@@ -3,20 +3,11 @@ Grasshopper example files for ADR2 GSAPP.
 
 ## Warmup
 A series of fast-pace in-class exercises.
-- [warmup .3dm + .gh files](1_warmup)
+[warmup .3dm + .gh files](1_warmup)
 
 ## Place while you draw
 
 ![](imgs/animation.gif)
-
-- [warmup .3dm + .gh files](2_place_people)
-
-Inputs:
-- Any curve geometry.
-- 2D shapes to randomly place along your curve geometry.
-
-Outputs:
-- Randomly placed 2D shapes along your curve geometry.
 
 GH files:
 - [simple demo to show placing logic](place-stuff.gh)
@@ -25,11 +16,18 @@ GH files:
 3DM file: 
 - [Rhino reference file](placepeep.3dm)
 
+How to install plugins? Follow this tutorial: https://parametricbydesign.com/grasshopper/tutorials/installing-grasshopper-and-plugins/
+
 Dependencies:
 - https://www.food4rhino.com/en/app/human
 
-How to install plugins? Follow this tutorial: https://parametricbydesign.com/grasshopper/tutorials/installing-grasshopper-and-plugins/
+Inputs:
+- Any curve geometry.
+- 2D shapes to randomly place along your curve geometry.
 
-## Slice buildings
+Outputs:
+- Randomly placed 2D shapes along your curve geometry.
 
-[files](3_sculpt_and_floor)
+## Slice buildings (WIP)
+
+[WIP files](3_sculpt_and_floor)
