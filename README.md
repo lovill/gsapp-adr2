@@ -1,11 +1,11 @@
 # ADR2 GSAPP In-Class Grasshopper Demos
 Grasshopper example files for ADR2 GSAPP.
 
-## Warmup
+## 1) Warmup
 A series of fast-pace in-class exercises.
 [warmup .3dm + .gh files](1_warmup)
 
-## Place while you draw
+## 2) Place while you draw
 
 ![](imgs/animation.gif)
 
@@ -28,6 +28,6 @@ Inputs:
 Outputs:
 - Randomly placed 2D shapes along your curve geometry.
 
-## Slice buildings (WIP)
+## 3) Slice buildings (WIP)
 
 [WIP files](3_sculpt_and_floor)
