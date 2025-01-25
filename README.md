@@ -16,10 +16,9 @@ GH files:
 3DM file: 
 - [Rhino reference file](placepeep.3dm)
 
-How to install plugins? Follow this tutorial: https://parametricbydesign.com/grasshopper/tutorials/installing-grasshopper-and-plugins/
-
 Dependencies:
 - https://www.food4rhino.com/en/app/human
+- How to install plugins? Follow this tutorial: https://parametricbydesign.com/grasshopper/tutorials/installing-grasshopper-and-plugins/
 
 Inputs:
 - Any curve geometry.
