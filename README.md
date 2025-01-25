@@ -10,11 +10,12 @@ A series of fast-pace in-class exercises.
 ![](imgs/animation.gif)
 
 GH files:
-- [simple demo to show placing logic](place-stuff.gh)
-- [full demo](place-stuff.gh)
+- [simple demo to show placing logic](2_place_people/place-stuff_section-mini.gh)
+- [more advanced demo](2_place_people/place-stuff_section.gh)
 
 3DM file: 
-- [Rhino reference file](placepeep.3dm)
+- [Rhino reference file for mini version](2_place_people/placepeep-mini.3dm)
+- [Rhino reference file for advanced version](2_place_people/placepeep.3dm)
 
 Dependencies:
 - https://www.food4rhino.com/en/app/human
