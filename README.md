@@ -33,4 +33,7 @@ A series of fast-pace Python in Grasshopper exercises.
 ![](4_python-warmup/imgs_demo//demo.gif)
 
 GH file:
-- [you will only neeed this file](4_python-warmup/python-warmup.gh)
+- [download "python-warmup.gh"](4_python-warmup)
+
+Dependencies:
+- https://www.food4rhino.com/en/app/human (if you don't have it it's ok)
