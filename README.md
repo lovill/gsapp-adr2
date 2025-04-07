@@ -28,6 +28,9 @@ Inputs:
 Outputs:
 - Randomly placed 2D shapes along your curve geometry.
 
-## 3) Slice buildings (WIP)
+## 3) Python Warmup!
+A series of fast-pace Python in Grasshopper exercises.
+![](4_python-warmup/imgs_demo//demo.gif)
 
-[WIP files](3_sculpt_and_floor)
+GH file:
+- [you will only neeed this file](4_python-warmup/python-warmup.gh)
