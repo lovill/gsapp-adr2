@@ -2,11 +2,12 @@
 Grasshopper example files for ADR2 GSAPP.
 
 ## 1) Warmup
-A series of fast-pace warmup exercises. These are recommended to those who don't have any prior experience with grasshopper or to those who want to get better acquainted with basic functionalities. 
-[warmup .3dm + .gh files](1_warmup)
-The .gh file contains two columns of grasshopper definitions. 
-- The first column "CHALLENGES" on the left comprises a set of simple challenges that you need to follow and solve.
-- The second column "SOLUTIONS" are meant to be reviewed to check for validation or if you get stuck. 
+A series of fast-paced warmup exercises recommended for those new to Grasshopper or wanting to reinforce basic functionalities. 
+[warmup.3dm + .gh files](1_warmup)
+
+The .gh file contains two columns:
+- **CHALLENGES** (left column): Simple exercises to solve sequentially.
+- **SOLUTIONS** (right column): Reference these to validate your work or if you get stuck with the challenges.
 
 ## 2) Place while you draw
 
