@@ -7,7 +7,10 @@ A series of fast-paced warmup exercises recommended for those new to Grasshopper
 
 The .gh file contains two columns:
 - **CHALLENGES** (left column): Simple exercises to solve sequentially.
-- **SOLUTIONS** (right column): Reference these to validate your work or if you get stuck with the challenges.
+![](imgs/sol.png)
+
+- **SOLUTIONS** (right column): Reference these to validate your work or if you get stuck with the challenges. This column includes instructions to solve the challenges along with some hints and explanations.
+![](imgs/ch.png)
 
 ## 2) Place while you draw
 
