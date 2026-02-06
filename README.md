@@ -1,9 +1,12 @@
-# ADR2 GSAPP In-Class Grasshopper Demos
+# ADR2 GSAPP Grasshopper Demos
 Grasshopper example files for ADR2 GSAPP.
 
 ## 1) Warmup
-A series of fast-pace in-class exercises.
+A series of fast-pace warmup exercises. These are recommended to those who don't have any prior experience with grasshopper or to those who want to get better acquainted with basic functionalities. 
 [warmup .3dm + .gh files](1_warmup)
+The .gh file contains two columns of grasshopper definitions. 
+- The first column "CHALLENGES" on the left comprises a set of simple challenges that you need to follow and solve.
+- The second column "SOLUTIONS" are meant to be reviewed to check for validation or if you get stuck. 
 
 ## 2) Place while you draw
 
