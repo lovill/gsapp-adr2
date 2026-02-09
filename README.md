@@ -14,7 +14,7 @@ The .gh file contains two columns:
 
 ## 2a) Heatmaps
 
-![](imgs/heatmap.png)
+![](imgs/heatmap-.gif)
 This demo showcases spatial data visualization through heatmaps. The Grasshopper file includes examples with increasing complexity.
 
 Files
