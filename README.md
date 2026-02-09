@@ -12,6 +12,19 @@ The .gh file contains two columns:
 - **SOLUTIONS** (right column): Reference these to validate your work or if you get stuck with the challenges. This column includes instructions to solve the challenges along with some hints and explanations.
 <img src="imgs/ch.png" width="600">
 
+## 2a) Heatmaps
+
+![](imgs/heatmap.png)
+This demo showcases spatial data visualization through heatmaps. The Grasshopper file includes examples with increasing complexity.
+
+Files
+- [vis-analysis.gh](2a_visibility-analysis/vis-analysis.gh)
+- [vis-analysis.3dm](2a_visibility-analysis/vis-analysis.3dm)
+
+Dependencies:
+- https://www.food4rhino.com/en/app/human
+- How to install plugins? Follow this tutorial: https://parametricbydesign.com/grasshopper/tutorials/installing-grasshopper-and-plugins/
+
 ## 2) Place while you draw
 
 ![](imgs/animation.gif)
